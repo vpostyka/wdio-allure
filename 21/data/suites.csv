@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue Sep 13 19:06:29 GMT 2022","Tue Sep 13 19:07:01 GMT 2022","31847","","My Login 1 application","","My Login 1 application","should login with valid credentials","should login with valid credentials",""
+"passed","Tue Sep 13 19:07:02 GMT 2022","Tue Sep 13 19:07:04 GMT 2022","1432","","My Login 3 application","","My Login 3 application","should login with valid credentials","should login with valid credentials",""
+"passed","Tue Sep 13 19:07:01 GMT 2022","Tue Sep 13 19:07:02 GMT 2022","1480","","My Login 2 application","","My Login 2 application","should login with valid credentials","should login with valid credentials",""
+"failed","Tue Sep 13 19:07:04 GMT 2022","Tue Sep 13 19:07:25 GMT 2022","21526","","My Login 4 application","","My Login 4 application","should login with valid credentials","should login with valid credentials",""
