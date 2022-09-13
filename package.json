@@ -18,9 +18,6 @@
         "url": "https://github.com/vpostyka/wdio-allure/issues"
     },
     "homepage": "https://github.com/vpostyka/wdio-allure#readme",
-    "dependencies": {
-        "wdio": "^6.0.1"
-    },
     "devDependencies": {
         "@babel/core": "^7.19.0",
         "@babel/preset-env": "^7.19.0",
