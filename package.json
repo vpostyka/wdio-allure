@@ -1,0 +1,36 @@
+{
+    "name": "wdio-allure",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "wdio",
+        "wdio": "wdio run wdio.conf.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vpostyka/wdio-allure.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vpostyka/wdio-allure/issues"
+    },
+    "homepage": "https://github.com/vpostyka/wdio-allure#readme",
+    "dependencies": {
+        "wdio": "^6.0.1"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.19.0",
+        "@babel/preset-env": "^7.19.0",
+        "@babel/register": "^7.18.9",
+        "@wdio/allure-reporter": "^7.24.0",
+        "@wdio/cli": "^7.24.0",
+        "@wdio/local-runner": "^7.24.0",
+        "@wdio/mocha-framework": "^7.24.0",
+        "@wdio/spec-reporter": "^7.24.0",
+        "chromedriver": "^105.0.0",
+        "wdio-chromedriver-service": "^7.3.2"
+    }
+}
