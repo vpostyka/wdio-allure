@@ -1,7 +1,7 @@
 import LoginPage from  '../pageobjects/login.page';
 import SecurePage from '../pageobjects/secure.page';
 
-describe('My Login application', () => {
+describe('My Login 1 application', () => {
     it('should login with valid credentials', async () => {
         await LoginPage.open();
 
@@ -39,7 +39,7 @@ describe('My Login application', () => {
     });
 });
 
-describe('My Login application', () => {
+describe('My Login 2 application', () => {
     it('should login with valid credentials', async () => {
         await LoginPage.open();
 
@@ -77,7 +77,7 @@ describe('My Login application', () => {
     });
 });
 
-describe('My Login application', () => {
+describe('My Login 3 application', () => {
     it('should login with valid credentials', async () => {
         await LoginPage.open();
 
@@ -115,7 +115,7 @@ describe('My Login application', () => {
     });
 });
 
-describe('My Login application', () => {
+describe('My Login 4 application', () => {
     it('should login with valid credentials', async () => {
         await LoginPage.open();
 
