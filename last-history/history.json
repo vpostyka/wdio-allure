@@ -1,0 +1,1 @@
+{"4bac12c8c0d48ef20c51dd646b2b16b9":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"a9d2a7c714014fee","reportUrl":"https://vpostyka.github.io/wdio-allure/18//#testresult/a9d2a7c714014fee","status":"passed","time":{"start":1663080076546,"stop":1663080078581,"duration":2035}}]}}
